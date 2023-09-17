@@ -5,7 +5,6 @@ matplotlip
 plotly
 webbrowser
 dash_html_components as html
-
 dash_core_components
 sqlite3
 
