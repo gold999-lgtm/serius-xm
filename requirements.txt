@@ -1,8 +1,0 @@
-dash
-pandas
-numpy
-matplotlip
-plotly
-webbrowser
-sqlite3
-
